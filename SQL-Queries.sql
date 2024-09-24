@@ -57,7 +57,7 @@ select *
 from emp
 where rownum < 6;
 
---or 
+   --or 
 
 select *
 from emp
