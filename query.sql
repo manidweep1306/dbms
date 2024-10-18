@@ -1,17 +1,3 @@
-
-
-Skip to content
-Using Vishnu Institute of Technology Mail with screen readers
-This browser version is no longer supported. Please upgrade to a supported browser.
-Enable desktop notifications for Vishnu Institute of Technology Mail.
-   OK  No thanks
-
-Conversations
- 
-Program Policies
-Powered by Google
-Last account activity: 12 minutes ago
-Details
 create table dept(deptno number(2), dname varchar2(20), loc varchar2(15), 
 constraint pk_dept primary key (deptno));
 create table emp(empno number(4), ename varchar2(10), job varchar2(9), mgr number(4),
